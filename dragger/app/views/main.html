@@ -1,0 +1,15 @@
+<div class="header">
+  <ul class="nav nav-pills pull-right">
+    <li class="active"><a ng-href="#">Home</a></li>
+    <li><a ng-href="#">About</a></li>
+    <li><a ng-href="#">Contact</a></li>
+  </ul>
+  <h3 class="text-muted">dragger</h3>
+</div>
+
+  <p class="lead">I AM FREE</p>
+
+<div class="bin" droppable drop="handleDrop()" ng-repeat="bin in range(1,4)" bin="bin" id="bin{{bin}}">{{ bin }}</div>
+
+
+<div class="item" id="item{{item}}" ng-repeat="item in range(1,9)" draggable item="item">{{ item }}</div>
