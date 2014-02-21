@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1017px" height="413px" viewBox="0 0 1017 413" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>nums</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M837,372 L514.579179,135.166679 L24.8828125,209.070312 L349,372 L837,372 Z" id="Rectangle-6" opacity="0.781392045" fill="#4F4062" sketch:type="MSShapeGroup"></path>
+        <rect id="Rectangle-1" fill="#B9AACB" sketch:type="MSShapeGroup" x="515" y="129" width="407" height="243"></rect>
+        <path d="M527.823318,124.773404 L448.756792,88 L442.011717,372.001323 L515.71596,372.001323 L527.823318,124.773404 Z" id="Rectangle-2" fill="#857994" sketch:type="MSShapeGroup"></path>
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(531.000000, 173.000000)" fill="#FAF5FF">
+            <rect id="Rectangle-3" sketch:type="MSShapeGroup" x="0" y="0" width="75" height="117"></rect>
+            <rect id="Rectangle-3-copy" sketch:type="MSShapeGroup" x="198" y="2" width="75" height="117"></rect>
+            <rect id="Rectangle-3-copy-2" sketch:type="MSShapeGroup" x="99" y="2" width="75" height="117"></rect>
+            <rect id="Rectangle-3-copy-2" sketch:type="MSShapeGroup" x="297" y="0" width="74" height="117"></rect>
+        </g>
+        <path d="M922,129 L842.371147,73 L442.011717,88.2124449 L527.031062,129 L922,129 Z" id="Rectangle-7" fill="#EBDAF1" sketch:type="MSShapeGroup"></path>
+        <text id="1" class="clock-number" sketch:type="MSTextLayer" font-family="Courier New" font-size="64" font-weight="bold" sketch:alignment="middle" fill="#686768">
+            <tspan x="548.796875" y="251">1</tspan>
+        </text>
+        <text id="2" class="clock-number" sketch:type="MSTextLayer" font-family="Courier New" font-size="64" font-weight="bold" sketch:alignment="middle" fill="#686768">
+            <tspan x="647.796875" y="251">2</tspan>
+        </text>
+        <text id="3" class="clock-number" sketch:type="MSTextLayer" font-family="Courier New" font-size="64" font-weight="bold" sketch:alignment="middle" fill="#686768">
+            <tspan x="746.796875" y="251">3</tspan>
+        </text>
+        <text id="4" class="clock-number" sketch:type="MSTextLayer" font-family="Courier New" font-size="64" font-weight="bold" sketch:alignment="middle" fill="#686768">
+            <tspan x="844.796875" y="251">1</tspan>
+        </text>
+    </g>
+</svg>

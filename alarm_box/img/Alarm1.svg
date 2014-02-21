@@ -1,0 +1,15 @@
+<svg width="905px" height="321px" viewBox="0 0 905 321" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M813,312 L490.579179,75.166679 L0.8828125,149.070312 L426.085938,312.000007 L813,312 Z" id="Rectangle-6" opacity="0.781392045" fill="#4F4062" sketch:type="MSShapeGroup"></path>
+        <rect id="Rectangle-1" fill="#B9AACB" sketch:type="MSShapeGroup" x="491" y="69" width="407" height="243"></rect>
+        <path d="M503.823318,64.7734043 L424.756792,28 L418.011717,312.001323 L491.71596,312.001323 L503.823318,64.7734043 Z" id="Rectangle-2" fill="#857994" sketch:type="MSShapeGroup"></path>
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(507.000000, 113.000000)" fill="#FAF5FF">
+            <rect id="Rectangle-3" sketch:type="MSShapeGroup" x="0" y="0" width="75" height="117"></rect>
+            <rect id="Rectangle-3-copy" sketch:type="MSShapeGroup" x="198" y="2" width="75" height="117"></rect>
+            <rect id="Rectangle-3-copy-2" sketch:type="MSShapeGroup" x="99" y="2" width="75" height="117"></rect>
+            <rect id="Rectangle-3-copy-2" sketch:type="MSShapeGroup" x="297" y="0" width="74" height="117"></rect>
+        </g>
+        <path d="M898,69 L818.371147,13 L418.011717,28.2124449 L503.031062,69 L898,69 Z" id="Rectangle-7" fill="#EBDAF1" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
