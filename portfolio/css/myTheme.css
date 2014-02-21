@@ -1,0 +1,73 @@
+/*
+	
+	"black" 
+		#25242C
+
+	"lightblack" 
+		#32313B
+	
+	"Hot Pink"
+		#EC3F8C
+
+	"BLuish"
+		#39B1c6
+
+	"Green"
+		#1FD26A
+*/
+
+
+nav a {
+    display: block;
+    margin-bottom: 10px;
+    padding: 15px 0;
+
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+
+    color: #999;
+    background: #39B1C6;
+}
+
+body {
+	border: solid 20px #25242c;
+}
+
+.super-header {
+	background-color: #32313B;
+	top: 0;
+	min-height: 100px;
+	color: #999;
+	border-bottom: solid 8px #EC3F8C;
+}
+
+.main-jumbo {
+	margin: 30px;
+	left: 50%;
+	margin-right: 40%;
+	font-size: 8em;
+	
+}
+
+.main-container {
+	background-color: #32313B;
+	height: 100%;
+}
+.main-jumbo .hip-spice {
+	color: #1FD26A;
+}
+
+.main-jumbo .noun-spice {
+	color: #39B1c6;
+}
+
+.bg-stripe {
+	width: 400px;
+	height: 20px;
+	background-color: #25242C;
+}
+
+article {
+	color: #999;
+}
